@@ -30,7 +30,7 @@ Here are some of my projects I'm recently working on:
   - Data Warehouse on AWS Redshift ([here](https://github.com/mhauck-FFM/Udacity_Data_Engineering_Projects/tree/master/Project_2))
   - more coming soon!
   
-I'm excited to see what interesting projects are waiting out there. Let's connect on [Xing](https://www.xing.com/profile/Marius_Hauck/cv).
+I'm always excited to hear about new interesting projects! So let's connect via [Xing](https://www.xing.com/profile/Marius_Hauck/cv).
 
 <!--
 **mhauck-FFM/mhauck-FFM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
