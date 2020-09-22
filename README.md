@@ -4,6 +4,7 @@ My name is Marius and I'm currently working as a Data Science consultant in Fran
   - numerical modeling
   - stochastics/statistics (as well as, of course, atmospheric sciences)
   - communicating data and science to a broad audience
+
 Recently, I've been working on these topics to deepen my knowledge even further:
   - machine learning (especially deep learning)
   - data engineering ([Udacity Nanodegree](https://www.udacity.com/course/data-engineer-nanodegree--nd027))
