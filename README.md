@@ -12,8 +12,8 @@ Recently, I've been intensively working on these topics to deepen my knowledge e
   - big data tools
   - and many more yet to come
   
- ###Tools and Skills
- Over the years, I have used many different tools and acquired a variety of skills. Here are the ones that mjatter most:
+ ### Tools and Skills
+ Over the years, I have used many different tools and acquired a variety of skills. Here are the ones that matter most:
  *Things*
 
 <!--
