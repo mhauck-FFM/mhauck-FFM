@@ -14,18 +14,18 @@ Recently, I've been intensively working on these topics to deepen my knowledge e
   - big data tools
   - and many more yet to come
   
- ### Tools and Skills
- Over the years, I have used many different tools and acquired a variety of skills. Here are the ones that matter most:
- **Programming Languages:** python, IDL, R, Fortran, SQL, CQL, bash (shell)
- **Python Libraries:** numpy/scipy, pandas, pyspark, keras, tensorflow, ...
- **Databases:** PostgreSQL, Apache Cassandra, Amazon Redshift
- **Cloud Providers:** Amazon Web Services ([AWS](https://aws.amazon.com/))
- **Version Control:** GitHub
- **Visualization:** Dash, Streamlit
- **Others:** Docker, Apache Spark and Databricks, Apache Airflow
+### Tools and Skills
+Over the years, I have used many different tools and acquired a variety of skills. Here are the ones that matter most:
+- **Programming Languages:** python, IDL, R, Fortran, SQL, CQL, bash (shell)
+- **Python Libraries:** numpy/scipy, pandas, pyspark, keras, tensorflow, ...
+- **Databases:** PostgreSQL, Apache Cassandra, Amazon Redshift
+- **Cloud Providers:** Amazon Web Services ([AWS](https://aws.amazon.com/))
+- **Version Control:** GitHub
+- **Visualization:** Dash, Streamlit
+- **Others:** Docker, Apache Spark and Databricks, Apache Airflow
  
- ### Recent Projects
- Here are some of my projects I'm recently working on:
+### Recent Projects
+Here are some of my projects I'm recently working on:
   - Stratospheric Dynamics (PhD project)
   - Data Warehouse on AWS Redshift ([here](https://github.com/mhauck-FFM/Udacity_Data_Engineering_Projects/tree/master/Project_2))
   - more coming soon!
