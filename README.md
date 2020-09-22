@@ -1,5 +1,11 @@
-### Hi there 👋
-My name is Marius and I'm currently working as a Data Science consultant in Frankfurt/Main (Germany). Originally a meteorologist researching atmospheric dynamics way up in the stratosphere, I pursued my passion for wrangling and analyzing data to finally becoming a Data Scientist.
+### Hi there! Long time no see. 👋
+My name is Marius and I'm currently working as a Data Science consultant in Frankfurt/Main (Germany). Originally a meteorologist researching fancy atmospheric dynamics way up in the stratosphere, I pursued my passion for wrangling and analyzing data to turn it into my career. Due to my background in both academia and industry, I provide solid knowledge in:
+  - data handling
+  - data engineering
+  - data analysis
+  - stochastics
+  - numerical methods
+  (as well as, of course, atmospheric sciences) 
 <!--
 **mhauck-FFM/mhauck-FFM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
