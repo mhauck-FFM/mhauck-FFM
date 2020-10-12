@@ -22,7 +22,7 @@ Over the years, I have used many different tools and acquired a variety of skill
 - **Cloud Providers:** Amazon Web Services ([AWS](https://aws.amazon.com/))
 - **Version Control:** GitHub
 - **Visualization:** Dash, Streamlit
-- **Others:** Docker, Apache Spark and Databricks, Apache Airflow
+- **Others:** Docker, AWS ECS/ECR, AWS CDK, Apache Spark and Databricks, Apache Airflow, ...
  
 ### Recent Projects
 Here are some of my projects I'm recently working on:
@@ -30,6 +30,7 @@ Here are some of my projects I'm recently working on:
   - Data Warehouse on AWS Redshift ([here](https://github.com/mhauck-FFM/Udacity_Data_Engineering_Projects/tree/master/Project_2))
   - Simple Car Recognition Program ([here](https://github.com/mhauck-FFM/Car_Recognition))
   - Weather Scraper on AWS Lambda ([here](https://github.com/mhauck-FFM/Lambda_Weather_Scraper))
+  - Classifying Reddit posts ([here](https://github.com/mhauck-FFM/Reddit_Post_Classifier))
   
 I'm always excited to hear about new interesting projects! So let's connect via [Xing](https://www.xing.com/profile/Marius_Hauck/cv).
 
