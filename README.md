@@ -27,7 +27,7 @@ Over the years, I have used many different tools and acquired a variety of skill
 ### Recent Projects
 Here are some of my projects I'm recently working on:
   - Stratospheric Dynamics (PhD project)
-  - Data Warehouse on AWS Redshift ([here](https://github.com/mhauck-FFM/Udacity_Data_Engineering_Projects/tree/master/Project_2))
+  - Data Warehouse on AWS Redshift ([here](https://github.com/mhauck-FFM/Udacity_Data_Engineering_Projects/tree/master/Project_7))
   - Simple Car Recognition Program ([here](https://github.com/mhauck-FFM/Car_Recognition))
   - Weather Scraper on AWS Lambda ([here](https://github.com/mhauck-FFM/Lambda_Weather_Scraper))
   - Classifying Reddit posts ([here](https://github.com/mhauck-FFM/Reddit_Post_Classifier))
