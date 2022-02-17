@@ -1,15 +1,14 @@
 ### Hi there! Long time no see. 👋
 My name is Marius and I'm currently working as a Data Science and Data Engineering consultant in Frankfurt/Main (Germany). Originally a meteorologist researching fancy atmospheric dynamics way up in the stratosphere, I pursued my passion for wrangling and analyzing data to turn it into my career. Due to my background in both academia and industry, I provide more than 5 years of solid experience in:
-  - data analysis and mining
+  - data analysis
+  - BI tools
   - numerical modeling
   - stochastics/statistics
-  - high performance computing
   - communicating data and science to a broad audience (as well as, of course, atmospheric sciences)
 
 Recently, I've been intensively working on these topics to deepen my knowledge even further:
-  - finishing my PhD
-  - machine learning (especially deep learning)
-  - data engineering ([Udacity Nanodegree](https://www.udacity.com/course/data-engineer-nanodegree--nd027))
+  - data wrangling and analyses
+  - all things BI (mostly Power BI & Tableau) and data visualization (Streamlit!)
   - cloud solutions (after all, still meteorologist)
   - big data tools
   - and many more yet to come
@@ -17,12 +16,14 @@ Recently, I've been intensively working on these topics to deepen my knowledge e
 ### Tools and Skills
 Over the years, I have used many different tools and acquired a variety of skills. Here are the ones that matter most:
 - **Programming Languages:** python, IDL, R, Fortran, SQL, CQL, bash (shell)
-- **Python Libraries:** numpy/scipy, pandas, pyspark, keras, tensorflow, ...
-- **Databases:** PostgreSQL, Apache Cassandra, Amazon Redshift
+- **Python Libraries:** numpy/scipy, pandas, streamlit, pyspark, keras, tensorflow, ...
+- **BI Tools**: Power BI, Tableau
+- **Big Data Tools**: Databricks, Apache Spark, hdfs
+- **Databases:** PostgreSQL, MS SQL Server, Amazon Redshift
 - **Cloud Providers:** Amazon Web Services ([AWS](https://aws.amazon.com/))
 - **Version Control:** GitHub
 - **Visualization:** Dash, Streamlit
-- **Others:** Docker, AWS ECS/ECR, AWS CDK, Apache Spark and Databricks, Apache Airflow, ...
+- **Others:** Docker, Apache Airflow, ...
  
 ### Recent Projects
 Here are some of my projects I'm recently working on:
